@@ -1,2 +1,4 @@
 # internitytask001
-this is to write a code which takes a url as input and returns a pandas dataframe from it.
+1.visualisation 
+2.log analysis task
+3.001 task
